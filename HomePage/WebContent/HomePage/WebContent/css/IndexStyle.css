@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+body {
+	font-size: 14px;
+	font-family: 맑은고딕;
+	margin: 0;
+}
+
+a{
+	color: black;
+	text-decoration: none;
+}
+
+h2 {
+	text-align: center;
+	border-bottom: 1px solid gray;
+	padding: 100px 0 100px 0;
+	margin: 0;
+}
+
+ul {
+    padding: 150px 80px 80px 250px;
+    margin: 0;
+    width: 100px;
+    float: left;
+}
+
+ul li {
+	font-size: 16px;
+	list-style: none;
+}
+
